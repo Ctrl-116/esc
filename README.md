@@ -1,4 +1,35 @@
 # esc
+## 这是用来测试的仓库
+### 1. 安装 Git
+下载 Git 安装程序并运行。按照安装向导的指示进行安装。
+### 2. 配置 Git
+打开命令提示符（CMD）。
+```cmd
+# 设置用户名
+git config --global user.name "Your Name"
+# 设置邮箱
+
+# 设置邮箱
+git config --global user.email "EMAILgit config --global user.email "your.email@example.com"
+
+# 检查配置
+git config --list
+
+# 克隆仓库
+# 克隆仓库
+git clone URL_ADDRESSgit clone https://github.com/your-username/your-repo.git
+
+# 切换分支
+git checkout BRANCH_NAMEgit checkout feature-branch
+
+# 拉取最新代码
+git pull
+
+
+# 提交更改
+git add .
+
+
 ### 1. 创建系统还原点
 
 方法一：通过图形界面
